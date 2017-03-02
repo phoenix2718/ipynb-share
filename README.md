@@ -1,5 +1,6 @@
 # ipynb-share
 This repository is made up for sharing iPython notebooks through browser. The followings are how to share iPython notebooks.
+
 1. Save an iPython notebook to share, whose extention is ipynb.
 2. Upload the file into this directory.
 3. Copy the URL of the uploaded file in GitHub.
